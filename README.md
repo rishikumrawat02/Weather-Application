@@ -8,6 +8,12 @@ Explore the world's weather like never before with our Weather Project. Powered 
 
 **Server:** NodeJs, ExpressJs
 
+## 🔄API Reference
+
+```
+  https://api.openweathermap.org/data/2.5/weather?q=${cityVal}&units=metric&appid=YOUR_APP_ID
+```
+
 # ✅Features:
 🌤️ **Current Conditions**: Get instant updates on the current weather conditions in your location or any city around the globe. Stay ahead with accurate temperature, humidity, wind speed, and more.
 
