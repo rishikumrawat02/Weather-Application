@@ -51,7 +51,12 @@ Open terminal and move to the project directory and run the below command
 - Project will be live on localhost:8000
 
 
-
+<p align="center">
   <img src="Images/Weather1.png" alt="Screenshot 1" width="800" height="400"/>
+</p>
+<p align="center">
   <img src="Images/Weather2.png" alt="Screenshot 2" width="800" height="400"/>
+</p>
+<p align="center">
   <img src="Images/Weather3.png" alt="Screenshot 3" width="800" height="400"/>
+</p>
