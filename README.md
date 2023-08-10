@@ -42,11 +42,10 @@ Open terminal and move to the project directory and run the below command
   npm start
 ```
 
-- Project will be live on localhost:3000
+- Project will be live on localhost:8000
 
 
-<p align="">
-  <img src="ScreenShots/S1.png" alt="Screenshot 1" width="300" height="400"/>
-  <img src="ScreenShots/S2.png" alt="Screenshot 2" width="300" height="400"/>
-  <img src="ScreenShots/S4.png" alt="Screenshot 3" width="300" height="400"/>
-</p>
+
+  <img src="Images/Weather1.png" alt="Screenshot 1" width="800" height="400"/>
+  <img src="Images/Weather2.png" alt="Screenshot 2" width="800" height="400"/>
+  <img src="Images/Weather3.png" alt="Screenshot 3" width="800" height="400"/>
